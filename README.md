@@ -40,7 +40,7 @@ Company Internal HomePage
 
 ## 📌 자료 Docs
 
-#### 로그인 Login <a href="https://github.com/ricelumps/Tjeoun_TeamProject/wiki/%F0%9F%93%83-%EB%A1%9C%EA%B7%B8%EC%9D%B8"/>
+#### 로그인 Login <a href="https://github.com/ricelumps/Tjeoun_TeamProject/wiki/%F0%9F%93%83-%EB%A1%9C%EA%B7%B8%EC%9D%B8">상세보기 Wiki</a>
 - DB값 검증
 - 로그인 성공 시 쿠키( Cookie ) 및 세션 ( Session ) 생성
 
