@@ -44,10 +44,10 @@ Company Internal HomePage
 - DB값 검증
 - 로그인 성공 시 쿠키( Cookie ) 및 세션 ( Session ) 생성
 
-#### 마이페이지 My Page
+#### 마이페이지 My Page <a href="https://github.com/ricelumps/Tjeoun_TeamProject/wiki/%F0%9F%93%83-%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%80"> 상세보기 </a>
 - 회원정보 변경
 
-#### 출 / 퇴근 기록
+#### 출 / 퇴근 기록 <a href="https://github.com/ricelumps/Tjeoun_TeamProject/wiki/%F0%9F%93%83-%EC%B6%9C---%ED%87%B4%EA%B7%BC-%EA%B8%B0%EB%A1%9D"> 상세보기 </a>
 - 오늘 날짜의 출/퇴근 기록 DB값 조회
 - 기록 없을 시에만 DB INSERT
 
