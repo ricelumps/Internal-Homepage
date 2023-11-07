@@ -26,7 +26,7 @@ Company Internal HomePage
 <br/>
 
 
-## 팀 내 역할 Role
+## 👕 팀 내 역할 Role
 - 백엔드 개발
 - 코드 및 오류 수정
 - 팀원들 기능 피드백
