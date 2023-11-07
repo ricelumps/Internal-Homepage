@@ -27,10 +27,10 @@ Company Internal HomePage
 
 
 ## 👕 팀 내 역할 Role
-- <b>백엔드 Back-End</b>
-- 백엔드 개발
-- 코드 및 오류 수정
-- 팀원들 기능 피드백
+* <b>백엔드 Back-End</b><br/>
+* 백엔드 개발
+* 코드 및 오류 수정
+* 팀원들 기능 피드백
 
 
 <br/>
@@ -75,7 +75,7 @@ Company Internal HomePage
 - 오늘 날짜의 출/퇴근 기록 DB값 조회
 - 기록 없을 시에만 DB INSERT
 
-#### 자유 / 공지 / 결재 / 식단표 게시판 <a href="https://github.com/ricelumps/Tjeoun_TeamProject/wiki/%F0%9F%93%83-%EA%B2%8C%EC%8B%9C%ED%8C%90"></a>
+#### 자유 / 공지 / 결재 / 식단표 게시판 <a href="https://github.com/ricelumps/Tjeoun_TeamProject/wiki/%F0%9F%93%83-%EA%B2%8C%EC%8B%9C%ED%8C%90"> 상세보기 </a>
 - 원하는 게시판 조회
 - 게시판 권한에 따른 생성 / 읽기 / 수정 / 삭제 기능 
 - 식단표, 결재 게시판의 경우 파일 업로드 및 다운로드 기능
