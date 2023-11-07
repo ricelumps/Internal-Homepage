@@ -28,9 +28,9 @@ Company Internal HomePage
 
 ## 👕 팀 내 역할 Role
 * <b>백엔드 Back-End</b><br/>
-* 백엔드 개발
-* 코드 및 오류 수정
-* 팀원들 기능 피드백
+  * 백엔드 개발
+  * 코드 및 오류 수정
+  * 팀원들 기능 피드백
 
 
 <br/>
@@ -50,14 +50,18 @@ Company Internal HomePage
 
 ## ⚙️ 개발환경 Development Environment
 
-* <b>BE</b>
-* Language :  Java 11
-* IDE :  STS 3.9.7
-* Framework : Spring 3.1.1
-* Server : Tomcat 
-* DB : OracleDB 11g xe
-* ORM : MyBatis
+* <b>BE</b><br/>
+  - Language :  Java 11
+  - IDE :  STS 3.9.7
+  - Framework : Spring 3.1.1
+  - Server : Tomcat 
+  - DB : OracleDB 11g xe
+  - ORM : MyBatis
 
+* <b>FE</b><br/>
+  - HTML : JSP, JSTL, EL
+  - CSS : Bootstrap
+  - JS : JavaScript, Jquery
 
 
 - Communication Tool :  Notion, Kakaotalk 
