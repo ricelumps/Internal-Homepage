@@ -20,13 +20,14 @@ Company Internal HomePage
 ## 🕙 개발 기간 Period
 * 1차 ( Vanila JSP ) : 2023.07.03 ~ 2023.07.14
 * 2차 ( JSP -> Spring Migration ) : 2023.08.04 ~ 2023.08.11
-* 최종 ( Few Updates & Bug Fix )  : 2023.08.25 ~ 2023.09.21 
+* 최종 ( Few Updates & Bug Fix )  : 2023.08.25 ~ 2023.09.19
 
 
 <br/>
 
 
 ## 👕 팀 내 역할 Role
+- <b>백엔드 Back-End</b>
 - 백엔드 개발
 - 코드 및 오류 수정
 - 팀원들 기능 피드백
@@ -44,7 +45,7 @@ Company Internal HomePage
 - 사내 일정 [ Company Schedule ]
 
 
-<br/>
+<br/>  
 
 
 ## ⚙️ 개발환경 Development Environment
@@ -55,7 +56,7 @@ Company Internal HomePage
 - Server : Tomcat 
 - DB : OracleDB 11g xe
 - ORM : MyBatis
-- Communication Tool : - Notion, Kakaotalk 
+- Communication Tool :  Notion, Kakaotalk 
 
 
 <br/>
@@ -82,3 +83,4 @@ Company Internal HomePage
 #### 사내 일정
 - 원하는 달의 일정 조회
 - 권한에 따른 일정 생성 및 삭제 기능
+
