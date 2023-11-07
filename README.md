@@ -50,13 +50,19 @@ Company Internal HomePage
 
 ## ⚙️ 개발환경 Development Environment
 
-- Language :  Java 11
-- IDE :  STS 3.9.7
-- Framework : Spring 3.1.1
-- Server : Tomcat 
-- DB : OracleDB 11g xe
-- ORM : MyBatis
+* <b>BE</b>
+* Language :  Java 11
+* IDE :  STS 3.9.7
+* Framework : Spring 3.1.1
+* Server : Tomcat 
+* DB : OracleDB 11g xe
+* ORM : MyBatis
+
+
+
 - Communication Tool :  Notion, Kakaotalk 
+
+
 
 
 <br/>
