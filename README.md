@@ -64,7 +64,8 @@ Company Internal HomePage
   - JS : JavaScript, Jquery
 
 
-- Communication Tool :  Notion, Kakaotalk 
+- <b>Communication</b><br/>
+  - Tool Notion, Kakaotalk 
 
 
 
