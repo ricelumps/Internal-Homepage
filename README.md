@@ -50,7 +50,7 @@ Company Internal HomePage
 
 ## ⚙️ 개발환경 Development Environment
 
-* <b>BE</b><br/>
+- <b>BE</b>
   - Language :  Java 11
   - IDE :  STS 3.9.7
   - Framework : Spring 3.1.1
@@ -58,13 +58,14 @@ Company Internal HomePage
   - DB : OracleDB 11g xe
   - ORM : MyBatis
 
-* <b>FE</b><br/>
+
+- <b>FE</b>
   - HTML : JSP, JSTL, EL
   - CSS : Bootstrap
   - JS : JavaScript, Jquery
 
 
-* <b>Communication</b><br/>
+- <b>Communication</b><br/>
   - Tool Notion, Kakaotalk 
 
 
