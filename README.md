@@ -75,11 +75,11 @@ Company Internal HomePage
 
 ## 느낀 점 Review
 
-#### 긍정 Positive
+#### 긍정적 Positive
 -  
 - 
 
-#### 부정 Negative
+#### 아쉬움 Negative
 - 
 -
 
