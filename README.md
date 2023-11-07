@@ -7,18 +7,19 @@ JSP -> Spring 마이그레이션
 
 
     
-
+<br/>
 ## 💻 프로젝트 소개 Introduce
 사내 인트라넷에서 사용되는 내부 홈페이지
 
 Company Internal HomePage
 
+<br/>
 ## 🕙 개발 기간 Period
 * 1차 ( Vanila JSP ) : 2023.07.03 ~ 2023.07.14
 * 2차 ( JSP -> Spring Migration ) : 2023.08.04 ~ 2023.08.11
 * 최종 ( Few Updates & Bug Fix )  : 2023.08.25 ~ 2023.09.21 
 
-
+<br/>
 ## ⚽ 기능 Features
 
 - 로그인 [ Login ] 
@@ -27,7 +28,7 @@ Company Internal HomePage
 - CRUD 자유 / 공지 / 결재 / 식단표 게시판 [ CRUD Board ]
 - 사내 일정 [ Company Schedule ]
 
-
+<br/>
 ## ⚙️ 개발환경 Development Environment
 
 - Language : Java 11
@@ -37,7 +38,7 @@ Company Internal HomePage
 - ORM : MyBatis
 
 
-
+<br/>
 ## 📌 자료 Docs
 
 #### 로그인 Login <a href="https://github.com/ricelumps/Tjeoun_TeamProject/wiki/%F0%9F%93%83-%EB%A1%9C%EA%B7%B8%EC%9D%B8"> 상세보기 </a>
