@@ -106,7 +106,7 @@ Company Internal HomePage
 - 게시판 권한에 따른 생성 / 읽기 / 수정 / 삭제 기능 
 - 식단표, 결재 게시판의 경우 파일 업로드 및 다운로드 기능
 
-#### 사내 일정 <a href="https://github.com/ricelumps/Tjeoun_TeamProject/wiki/%F0%9F%93%83-%EC%82%AC%EB%82%B4-%EC%9D%BC%EC%A0%95"> 상세보기 </a>
+#### 사내 일정 <a href="https://github.com/ricelumps/Tjeoun_TeamProject/wiki/%F0%9F%93%83-%EC%82%AC%EB%82%B4-%EC%9D%BC%EC%A0%95-(-%EC%88%98%EC%A0%95%EC%A4%91-)"> 상세보기 </a>
 - 원하는 달의 일정 조회
 - 권한에 따른 일정 생성 및 삭제 기능
 
