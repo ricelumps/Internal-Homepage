@@ -76,12 +76,14 @@ Company Internal HomePage
 ## 느낀 점 Review
 
 #### 긍정적 Positive
--  
-- 
+- 목표했던 기능들 구현 완료
+- 커뮤니케이션의 중요성 확인
+- Spring MVC의 동작 구조 흐름 이해
 
 #### 아쉬움 Negative
-- 
--
+- 기능 구현에만 급급함, 데이터 처리 속도나 비즈니스 로직에 대한 이해도 전무
+- 당시 GitHub에 대한 이해가 없어 미사용
+- DB 설계 지식 전무로 인한 관계형 DB 활용도 하락
 
 
 <br/>
