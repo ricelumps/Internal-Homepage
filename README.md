@@ -48,7 +48,7 @@ Company Internal HomePage
 <br/>  
 
 
-## ⚙️ 개발환경 Development Environment
+## ⚙️ 개발 환경 Development Environment
 
 - <b>BE</b><br/>
   - Language :  Java 11
