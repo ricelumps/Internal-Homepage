@@ -1,6 +1,6 @@
 # Spring - Company Homepage
 
-[더조은 아카데미 PDF](https://github.com/ricelumps/Internal-Homepage/files/13423109/_._.pdf)
+[PDF 파일](https://github.com/ricelumps/Internal-Homepage/files/13423109/_._.pdf)
 
 
 JSP -> Spring 마이그레이션
