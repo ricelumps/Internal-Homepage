@@ -1,9 +1,6 @@
 # Spring - Company Homepage
 
-[PDF 파일](https://github.com/ricelumps/Internal-Homepage/files/13423109/_._.pdf)
-
-
-JSP -> Spring 마이그레이션
+[프로젝트 소개 PDF](https://github.com/ricelumps/Internal-Homepage/files/13423393/_._.pdf)
 
 사내 내부 홈페이지
 
