@@ -1,8 +1,13 @@
 # Spring - Company Homepage
 
+[더조은 아카데미 PDF](https://github.com/ricelumps/Internal-Homepage/files/13423109/_._.pdf)
+
+
 JSP -> Spring 마이그레이션
 
 사내 내부 홈페이지
+
+
 
 
 <br/>
@@ -110,4 +115,5 @@ Company Internal HomePage
 #### 사내 일정 <a href="https://github.com/ricelumps/Tjeoun_TeamProject/wiki/%F0%9F%93%83-%EC%82%AC%EB%82%B4-%EC%9D%BC%EC%A0%95-(-%EC%88%98%EC%A0%95%EC%A4%91-)"> 상세보기 </a>
 - 원하는 달의 일정 조회
 - 권한에 따른 일정 생성 및 삭제 기능
+
 
