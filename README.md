@@ -1,10 +1,11 @@
 # Spring - Company Homepage
 
-[프로젝트 소개 PDF](https://github.com/ricelumps/Internal-Homepage/files/13423393/_._.pdf)
 
 사내 내부 홈페이지
 
+[프로젝트 소개 PDF](https://github.com/ricelumps/Internal-Homepage/files/13445690/_._.pdf)
 
+[프로젝트 발표 PPT](https://github.com/ricelumps/Internal-Homepage/files/13445694/20230911_3._._v2.pptx)
 
 
 <br/>
