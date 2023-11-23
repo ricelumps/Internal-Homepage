@@ -3,7 +3,8 @@
 
 사내 내부 홈페이지
 
-[프로젝트 소개 PDF](https://github.com/ricelumps/Internal-Homepage/files/13445690/_._.pdf)
+
+[김형철_포폴_더조은.pdf](https://github.com/ricelumps/Internal-Homepage/files/13445721/_._.pdf)
 
 [프로젝트 발표 PPT](https://docs.google.com/presentation/d/14PUwj-u269YJKvwxv4NQCCarsf8Bm5R3/edit#slide=id.p1)
 
